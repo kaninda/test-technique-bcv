@@ -42,3 +42,5 @@ build/
 /.idea/codeStyles/codeStyleConfig.xml
 /.idea/aws.xml
 /.idea/.gitignore
+/.idea/encodings.xml
+/.idea/vcs.xml
