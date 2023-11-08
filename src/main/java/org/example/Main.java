@@ -9,6 +9,9 @@ public class Main {
                 new Employee("Nabil", 4200, "RH")
                 new Employee("kmihi", 2900, "RH")
                 new Employee("Axel", 3200, "RH") */
-        // 2. Ecrire un progrqmme qui trouve le plus grand salaire par departement
+
+        //2. Trouves moi l'employee qui a le plus grand salaire
+
+        //3. Ecrire un progrqmme qui trouve le plus grand salaire par departement
     }
 }
